@@ -1,0 +1,7 @@
+foo:
+    - list1
+    - list2
+
+bar:
+    - 1
+    - 2.0
